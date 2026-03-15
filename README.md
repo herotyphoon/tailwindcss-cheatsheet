@@ -57,20 +57,11 @@ xdg-open index.html  # Linux
 
 ### Option 2 — Use the live GitHub Pages site
 
-👉 **[YOUR_USERNAME.github.io/tailwind-cheatsheet](https://YOUR_USERNAME.github.io/tailwind-cheatsheet)**
+👉 **[herotyphoon.github.io/tailwind-cheatsheet](https://herotyphoon.github.io/tailwind-cheatsheet)**
 
 ### Option 3 — Quick reference while coding
 
 Bookmark the page and use the sticky navigation bar to jump instantly between sections.
-
----
-
-## 🌐 Deploy to GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to **Deploy from a branch → `main` → `/ (root)`**
-4. Click **Save** — your cheatsheet will be live in ~60 seconds
 
 ---
 
@@ -122,7 +113,7 @@ This cheatsheet covers **Tailwind CSS v3.x**. For the latest changes, check the 
 
 ## 📄 License
 
-MIT © [YOUR_NAME](https://github.com/YOUR_USERNAME) — see [LICENSE](LICENSE) for details.
+MIT © [herotyphoon](https://github.com/herotyphoon) — see [LICENSE](LICENSE) for details.
 
 ---
 
